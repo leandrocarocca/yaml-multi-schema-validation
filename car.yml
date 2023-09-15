@@ -1,2 +1,10 @@
 car:
-  manufacturer: volvo
+  manufacturer: Volvo
+  model: XC90
+  year: "2022"
+  attributes:
+    - Four wheels
+    - Air conditioning
+    - Four doors
+  reg: QWE123
+

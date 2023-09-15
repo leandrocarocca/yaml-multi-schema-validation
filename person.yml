@@ -1,3 +1,11 @@
 person:
   name:
-    first_name: Stig
+    first_name: Leandro
+    last_name: Carocca
+  age: 24
+  class: Java-development
+  start_year: 2022
+  hobbies:
+    - Reading
+    - Coding
+    - Solving partial differential equation using Crank–Nicolson method and LU factorization

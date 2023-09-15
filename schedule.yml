@@ -3,8 +3,10 @@ schedule:
   program: "Java Development"
   lessons:
     - date: "2023-09-15"
-      description: "Devops 1"
+      description: "Devops Lecture 1"
     - date: "2023-09-16"
-      description: "Devops 2"
+      description: "Devops Lecture 2"
     - date: "2023-09-18"
-      description: "Devops 3"
+      description: "Devops Lecture 3"
+    - date: "2023-09-20"
+      description: "Devops Lecture 4"

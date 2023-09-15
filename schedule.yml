@@ -1,4 +1,10 @@
 schedule:
-  program: java
+  year: "2023"
+  program: "Java Development"
   lessons:
-    - date: "2022-02-01"
+    - date: "2023-09-15"
+      description: "Devops 1"
+    - date: "2023-09-16"
+      description: "Devops 2"
+    - date: "2023-09-18"
+      description: "Devops 3"
